@@ -9,10 +9,10 @@ Files can be uploaded without authorization. Files must not be deleted without a
 ## Branches
 ### dev
 Development branch. All planning and development work happens here.\
-All changes to files must be made in the dev branch.\
+All changes to files must be made in the dev branch.
 
 ### beta
-Beta branch. All beta testing of the software happens here.\
+Beta branch. All beta testing of the software happens here.
 
 ### stable
 Stable branch. Complete and stable versions of the software are stored here.
