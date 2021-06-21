@@ -9,7 +9,7 @@ All filenames must be lowercase, hyphens must be used instead of spaces, and lar
 Files can be uploaded without authorization. Files must not be deleted without authorization from project leader.<br/>
 <br/>
 ## Branches
-### dev
+### dev<br/>
 Development branch. All planning and development work happens here.<br/>
 All changes to files must be made in the dev branch.<br/>
 <br/>
