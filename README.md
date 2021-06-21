@@ -1,5 +1,7 @@
-# graphite
-
+# graphite<br/>
+<br/>
+Project leader: 67u96c4h<br/>
+<br/>
 Files must be stored in their related folders.<br/>
 Notes must be stored as plain text (.txt) files. Markdown (.md) is accepted for scripts, only.<br/>
 All dates and times must be ISO 8601 compliant (YYYY-MM-DD HH:MM).<br/>
