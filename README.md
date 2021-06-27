@@ -5,7 +5,7 @@ Project leader: 67u96c4h<br/>
 Files must be stored in their related folders.<br/>
 Text files must be stored as plain text (.txt) or Markdown (.md) files.<br/>
 All dates and times must be ISO 8601 compliant (YYYY-MM-DD HH:MM).<br/>
-All filenames must be lowercase, hyphens must be used instead of spaces, and most significant to least significant.<br/>
+All filenames must be most significant to least significant, lowercase, hyphens must be used instead of spaces.<br/>
 Files can be uploaded without authorization. Files must not be deleted without authorization from project leader.<br/>
 
 ## Branches
