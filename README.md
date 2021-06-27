@@ -1,6 +1,12 @@
 # graphite
 <br/>
-Project leader: 67u96c4h<br/>
+Project leader: inferenceus<br/>
+<br/>
+Server image is licensed under CC-BY-SA-3.0<br/>
+https://creativecommons.org/licenses/by-sa/3.0/legalcode
+<br/>
+graphite is licensed under GPLv3<br/>
+https://www.gnu.org/licenses/gpl-3.0.en.html
 <br/>
 Files must be stored in their related folders.<br/>
 Text files must be stored as plain text (.txt) or Markdown (.md) files.<br/>
