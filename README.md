@@ -1,7 +1,7 @@
 # graphite
 <br/>
 Project leader: inferenceus<br/>
-Discord server: 8XcswMYA
+Discord server: 8XcswMYA<br/>
 <br/>
 Repository image is licensed under CC-BY-SA-3.0<br/>
 https://creativecommons.org/licenses/by-sa/3.0/legalcode<br/>
@@ -26,3 +26,5 @@ All revision changes to files must be made in the beta branch.<br/>
 
 ### stable
 Stable branch. Complete and stable versions of the software are stored here.<br/>
+<br/>
+### Warning! Beta and Stable branches are not yet ready!
