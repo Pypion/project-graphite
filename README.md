@@ -1,7 +1,7 @@
 # graphite
 <br/>
 Project leader: inferenceus<br/>
-Discord server: 8XcswMYA<br/>
+Discord server: vqMdQnc9Jv<br/>
 <br/>
 Repository image is licensed under CC-BY-SA-3.0<br/>
 https://creativecommons.org/licenses/by-sa/3.0/legalcode<br/>
