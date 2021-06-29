@@ -8,7 +8,7 @@ https://creativecommons.org/licenses/by-sa/3.0/legalcode<br/>
 <br/>
 graphite is licensed under GPLv3<br/>
 https://www.gnu.org/licenses/gpl-3.0.en.html<br/>
-Anyone is free to view, study, copy, share, modify the source code. All source code, including modifications,
+Anyone is free to view, study, copy, share, and modify the source code. All source code, including modifications,
 must be released under the same license terms. Credit must be given to the original source code author(s).<br/>
 <br/>
 Files must be stored in their related folders.<br/>
