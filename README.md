@@ -1,6 +1,6 @@
 # Graphite
 <br/>
-Project leader: inferenceus<br/>
+President: inferenceus<br/>
 Discord server: vqMdQnc9Jv<br/>
 <br/>
 
