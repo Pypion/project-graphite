@@ -24,17 +24,6 @@ Files can be uploaded without authorization. Files must not be deleted without a
 <br/>
 
 ## Branches
-### code
-Code branch. Only collaborators with the code role can work here.<br/>
-
-### plot
-Plot branch. Only collaborators with the plot role can work here.<br/>
-
-### script
-Script branch. Only collaborators with the script role can work here.<br/>
-
-### art
-Art branch. Only collaborators with the art role can work here.<br/>
 
 ### dev
 Development branch. All pull requests must be made to the dev branch.<br/>
