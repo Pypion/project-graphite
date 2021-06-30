@@ -1,9 +1,183 @@
-James
-"It's the first day of the final year of high school."
+Scene 0:
 
-James
-"I've always liked my childhood friend, Emily, but I haven't yet confessed
-to her."
+James: The final year of high school starts today, my last chance at a lot of things. I feel like the supposed best years of my life were wasted. 
 
-James
-"I'm going to do it this year."
+I got good grades, teachers are quick to heap me with praise and offers of college recommendation letters, which is cool I guess, but I’ve never reached that one milestone, the right of passage for everyone on the cusp of adulthood. I never had a girlfriend.
+
+I mean, there’s been a girl I’ve liked, since forever basically, but I've never had the guts to tell her. It never works out with friends, you either confess and ruin the friendship, or try to stay friends but slowly yet inevitably drift apart.
+
+The way I see it, I’ve got a 50/50 chance, and since its the last year and I can just fuck off to a college across the country if it goes south, I’m making this my year. 
+
+*Emily enters*
+
+Emily: Oh! Good morning James!
+
+James: (internal) Shit! It's Emily, when I said I would shoot my shot this year, I didn’t mean right this moment!
+
+James (blushing): Morning Emily, what’s up?
+
+Emily: Oh you know, same old, same old. Hey! Glad I caught you, were you planning on joining any clubs?
+
+Branching paths:
+
+Yeah...clubs...was just thinking about them, which are you in again?
+
+What? No, the less time I spend in school the better
+
+Yeah actually, I had one in mind.
+
+If option 1.
+
+Emily: You completely forgot about the festival didn’t you? *giggles* that is so you. Anyway, I'm on the student committee, we oversee all the club activities. We’re holding a club fair after school, you should drop by.
+
+James:
+Remind me, what’s this festival about?
+Sounds like fun! You’ll be there right?
+After school? Yeah...no...I have plans. Doing other stuff, that’s not in school.
+
+If A:
+
+Emily: You know that big field and empty lot behind the school? It used to be a community market. People would come to sell their art, vendors would sell food, there were musicians, and even a farmers market. 
+
+James: Really? It just looks like an abandoned lot.
+
+Emily: Well, yeah, now it is, but it wasn’t always. The city just got too expensive and people who’ve been here for generations got displaced, and the market kind of died out.
+
+James: Yeah, I heard about that, Gentrification or something right?
+
+Emily: (happy) Yes! That’s exactly it! And ever since the new train station got built, the city wants to let some tech companies build offices and luxury condos over the lot!
+
+James: That's awful! ...Isn’t it?
+
+Emily: It is because even more people will be displaced and this neighborhood will lose the last of its character and charm. The festival is our last chance to bring back a timeless tradition and cornerstone of our community! People used to come from across the city to the market for art, music, and food.
+
+James: Sounds like a big deal.
+
+Emily: It totally is! That’s why you’ll help out by joining a club, right?
+
+Return to options B and C
+
+
+If B:
+
+Emily (happy): Great! I knew I could count on you! The fair is after last bell in the student commons, ok?
+
+James: Yeah, see you there.
+
+*bell rings*
+
+Emily: For sure, see you there!
+
+James gets positive affection with emily
+
+Story converges here
+
+
+If C:
+
+Emily (annoyed): Really? Like what?
+
+James:
+	1c: I like to go to the park and people watch
+	2c: New episodes of pokemon come on at 4, I’m not missing that.
+	3c:  I don’t know, jerk off maybe?
+If 1c:
+
+Emily: Really? Huh, I didn’t know that about you. Well, I hope you reconsider, we could use all the help we can get for the festival.
+
+*bell rings*
+Story converges here
+
+If 2c:
+
+Emily: What are you, like 5? Its not like that show has changed in the, what, 25 years its been on tv? I’m sure you can miss one episode.
+
+James losses affection with Emily
+
+*bell rings*
+Story converges here
+
+If 3c:
+
+Emily: (disgusted) you know what, forget I asked.
+
+*bell rings*
+
+
+
+
+Emily: Oh shoot, I’m going to be late. Anyway, the club fair is after last bell in the student commons. If you can break away from your oh so busy schedule, I hope you can join us.
+
+Story converges here
+
+
+If Option 2:
+
+Emily (disappointed): I mean, I guess I understand, but this is for a good cause and I promise it will be really fun. Will you reconsider?
+
+Remind me, what’s this festival about?
+I’ll think about it
+Yeah, no.
+
+If A:
+
+Emily: You know that big field and empty lot behind the school? It used to be a community market. People would come to sell their art, vendors would sell food, there were musicians, and even a farmers market. 
+
+James: Really? It just looks like an abandoned lot.
+
+Emily: Well, yeah, now it is, but it wasn’t always. The city just got too expensive and people who’ve been here for generations got displaced, and the market kind of died out.
+
+James: Yeah, I heard about that, Gentrification or something right?
+
+Emily: (happy) Yes! That’s exactly it! And ever since the new train station got built, the city wants to let some tech companies build offices and luxury condos over the lot!
+
+James: That's awful! ...Isn’t it?
+
+Emily: It is because even more people will be displaced and this neighborhood will lose the last of its character and charm. The festival is our last chance to bring back a timeless tradition and cornerstone of our community! People used to come from across the city to the market for art, music, and food.
+
+James: Sounds like a big deal.
+
+Emily: It totally is! That’s why you’ll help out by joining a club, right?
+
+Return to options B and C
+
+If B:
+
+Emily: (annoyed) It's not a no I guess. Anyway, if you want to join us, the club fair is after last bell in the student commons.
+
+*bell rings*
+Story converges
+
+If C:
+
+Emily: (annoyed) no need to be an ass about it. Anyway, if you do decide to join us, the club fair is after last bell in the student commons.
+
+James loses affection with Emily.
+
+*bell rings*
+Story converges
+
+
+If option 3:
+
+Emily: (surprised) Really? Thats great, then you know the club fair is after last bell in the student commons, right?
+
+James: Yeah, I’ll be there.
+
+Emily: (happy) Great, I’ll see you there then!
+
+*bell rings*
+Story converges here
+
+Story continues:
+
+*After the bell and emily leaves*
+
+If no affection lost or gained:
+James: That went...someway…
+
+If affection lost:
+James: God, what the hell is wrong with me?
+
+If affection gained:
+James: That went...better than expected. I might actually stand a chance!
