@@ -1,4 +1,4 @@
-# graphite
+# Graphite
 <br/>
 Project leader: inferenceus<br/>
 Discord server: vqMdQnc9Jv<br/>
@@ -8,7 +8,7 @@ Discord server: vqMdQnc9Jv<br/>
 Repository image is licensed under CC-BY-SA-3.0<br/>
 https://creativecommons.org/licenses/by-sa/3.0/legalcode<br/>
 <br/>
-graphite is licensed under GPLv3<br/>
+Graphite is licensed under GPLv3<br/>
 https://www.gnu.org/licenses/gpl-3.0.en.html<br/>
 <br/>
 Anyone is free to view, study, copy, share, and modify the source code. All source code, including modifications,
