@@ -3,12 +3,18 @@ label start:
 
     scene bg room
 
-    j "It's the first day of the final year of high school."
+    j "The final year of high school starts today, my last chance at a lot of\
+    things. I feel like the best years of my life were wasted."
 
-    j "I've always liked my childhood friend, Emily, but I haven't yet confessed
-to her."
+    j "I got good grades, teachers are quick to heap me with praise and offers\
+    of college recommendation letters, which is cool I guess, but I’ve never\
+    reached that one milestone, the right of passage for everyone on the cusp\
+    of adulthood. I never had a girlfriend."
 
-    j "I'm going to do it this year."
+    j "I mean, there’s been a girl I’ve liked, since forever basically, but\
+    I've never had the guts to tell her. It never works out with friends, you\
+    either confess and ruin the friendship, or try to stay friends but slowly\
+    yet inevitably drift apart."
 
     show character-emily
 
