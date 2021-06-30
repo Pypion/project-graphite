@@ -1,4 +1,4 @@
-Copyright (c) 2021 Liberation Group
+Copyright (C) 2021 Liberation Group
 
                      GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
