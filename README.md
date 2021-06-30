@@ -19,22 +19,11 @@ must be released under the same license terms. Credit must be given to the origi
 Files must be stored in their related folders.<br/>
 Text files must be stored as plain text (.txt) or Markdown (.md) files.<br/>
 All dates and times must be ISO 8601 compliant (YYYY-MM-DD HH:MM).<br/>
-All filenames must be most significant to least significant, lowercase, hyphens must be used instead of spaces.<br/>
+All filenames must be most significant to least significant, lowercase, and hyphens must be used instead of spaces.<br/>
 Files can be uploaded without authorization. Files must not be deleted without authorization from project leader.<br/>
 <br/>
 
 ## Branches
-### code
-Code branch. Only collaborators with the code role can work here.<br/>
-
-### plot
-Plot branch. Only collaborators with the plot role can work here.<br/>
-
-### script
-Script branch. Only collaborators with the script role can work here.<br/>
-
-### art
-Art branch. Only collaborators with the art role can work here.<br/>
 
 ### dev
 Development branch. All pull requests must be made to the dev branch.<br/>
