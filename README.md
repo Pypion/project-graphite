@@ -12,7 +12,8 @@ Graphite is licensed under GPLv3<br/>
 https://www.gnu.org/licenses/gpl-3.0.en.html<br/>
 <br/>
 Anyone is free to view, study, copy, share, and modify the source code. All source code, including modifications,
-must be released under the same license terms. Credit must be given to the original source code author(s).<br/>
+must be released under the same license terms. Credit must be given to the original source code copyright holders.<br/>
+A copy of GPLv3 license must be included.
 <br/>
 
 ## Policy
