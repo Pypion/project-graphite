@@ -33,7 +33,7 @@ label start:
             jump route0
         "What? No. The less time I spend in school, the better.":
             jump route0
-        "Yeah, actually; I had one in mind."
+        "Yeah, actually; I had one in mind.":
             jump route0
 
 label route0:
@@ -48,7 +48,7 @@ label route0:
         "Sounds like fun! You’ll be there, right?":
             jump route0a
         "After school? Yeah... No... I have plans. Doing other stuff, that’s\n
-        not in school."
+        not in school.":
             jump route0a
         
 label route0a:
