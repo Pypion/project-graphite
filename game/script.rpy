@@ -55,6 +55,6 @@ label route0a:
 
     e "You know that big field and empty lot behind the school? It used to be\n
     a community market. People would come to sell their art, vendors would\n
-    sell food, there were musicians, and even a farmers market.
+    sell food, there were musicians, and even a farmers market."
     
 return
