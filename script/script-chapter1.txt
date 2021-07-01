@@ -1,1 +1,227 @@
 
+chapter1
+*bell rings*
+
+James (internal): For the first day back from class, there sure is a lot of homework. This is ridiculous. Senior year is supposed to be a cakewalk…
+
+If options 3 or B (all B’s lead here) chosen in chapter 0:
+
+James (internal): Whatever, it's not due this week, so I have time. I guess I could check out that club fair Emily was talking about.
+
+
+If options 2 or C (all C’s lead here) chosen:
+
+James (internally): How lame...At least it's a nice day, I can head to the cafe and sit on the patio and finish reading manga.
+
+*Celia enters, bumps into James, dropping something glass*
+
+Celia: Mierda! That piece took me weeks!
+
+James: Oh! Sorry…
+
+Celia: (sighs) No, it was my fault, I was trying to carry too much. (another piece drops) Damn it!
+
+James: Here, let me help you.
+
+Celia: Really? Thanks! You're a Lifesaver!
+
+James: Yeah, no problem. Where are you headed?
+
+Celia: To the student commons! I have to set up for the club fair.
+
+James: (internal) there goes my cafe and manga idea…
+
+Celia: Are you in any clubs?
+
+James: no, I never really-
+
+Celia (interrupting, excited): What! You should totally join the art club then! We have soooo much fun, especially this year with the festival, a girl is making plaaaaans. I mean, when I say we, I just mean me, at the moment, but that's all about to change right?
+
+James: I’m sure--
+Celia (interrupting): Oh! Last year, we did that big mural on the side of the school, by the teachers parking lot? We got hella push back because admi wanted some boring ass picture of the mascot, but we were like “no, fuck that” this is a working class community with hella history and heritage right? So we wanted to put something that reflected that.
+
+James: Yeah, I reme-
+
+Celia: (interrupting) I wanted something a bit more avant garde, but we can’t win them all right? We were able to settle on a really cool design. We even made it onto an art zine.
+
+James:(internal) Man, does this woman ever stop talking?
+
+James: Wow, that's...impressive.
+
+Celia (proud/smug): Mhmm. But everyone graduated last year, so that was kind of like our magnum opus. My hope is that we can recruit enough new members to go out on an even bigger bang this year! Oh, I'm a senior by the way, you?
+
+James: Same. My name is James, in class 2-b.
+
+Celia: (shocked) Ay Dios Mio! I forgot to introduce myself! I’m Celia, in class 3-a, a pleasure to meet you.
+
+James: Nice to meet you too.
+
+Celia: Oh! Looks like we’re here! Hey, so I gotta go set up, but drop by and sign up for the Art club ok?
+
+James: Well, I wasn’t really planning on--
+
+Celia (interrupting): Alright then, see you later!
+
+*James gains some affection with Celia*
+
+*Celia exits*
+
+James (internal): Damn it...how did I wind up here after all?
+
+
+If option 3c:
+James: Whatever, parents are gonna be home for another hour or two, gives me plenty of time to go fire off some knuckle children.
+
+Either cut to game over or the final scene bad ending
+
+Story continues:
+
+Emily: Oh! James, you made it.
+
+James: Yeah, of course, I wouldn't miss it…
+
+Emily: Well, since you're here, why don’t you browse the different clubs? We’re almost done setting up.
+
+Choose:
+Art Club
+Film Club
+Music Club
+Film club
+Gardening Club
+On Second thought…
+
+If option 1:
+
+Celia: Oh hey! Jamie right?
+
+James: Actually, it's James, with a J.
+
+Celia: That’s what I said right? Oh! Right my beaner must have come out, in spanish the J makes an H sound. 
+
+James:
+Actually, I like the way you say it.
+Huh, today I learned….
+Well, its an english name, so say it right
+
+If option A:
+
+Celia (sly): Oh do you now? Well then Jamie, if you like it so much, you’ll just have to join the Art club, won’t you?
+
+James: You are quite the determined woman, aren’t you?
+
+Celia: (laughs) How else is a girl to get what she wants?
+
+*James gains some affection with Celia*
+
+Story converges
+
+If option B:
+Celia: Right? Everyday with me you learn something new, kinda makes you want to join the art club doesn’t it?
+
+Story converges:
+
+If option C:
+
+Celia: (angry) Este gringo hijo de puta. How about you take your bigoted ass somewhere else? I don’t need this type of energy in my life.
+
+James:
+1c. Just saying, my name is James.
+2c. You’re right, that came out wrong.
+
+If 1c:
+
+Celia: And I’m just saying fuck off.
+
+James: Can I still join the club though?
+
+Celia (annoyed):Like, the club might get shut down if I said no, so you can write your name down or whatever. But, you know, I can’t guarantee that paper won’t get lost or fall in the garbage, or get incinerated, or something like that.
+
+*James loses lots of affection with Celia*
+
+Story converges
+
+If 2c
+
+Celia: Hmmm...Alright, since you apologized and all that, but just so you know, shit like that is a major trigger for me.
+
+Story converges
+
+Story continues:
+
+James is prompted to sign up for the Art club:
+
+Yes
+No
+Let me think about it…
+
+If option 1 (no option C or 1c in previous selection)
+
+Celia: (happy) Yay! That's one down, now go tell your friends to join too!
+
+*James gains some affection with Celia*
+*club sign up section ends*
+*Return to Emily*
+
+If option 1 (yes option C or 1c in previous section)
+
+Celia: Yay...now get out here, you’re scaring all the good, talented people away.
+
+*club sign up section ends*
+*Return to Emily*
+
+If option 2:
+
+Celia: Aww...I thought you would have been a sure fit, and I usually have an eye for these things...
+
+*club sign up section ends*
+*Art club option removed*
+*Return to club selection*
+
+If option 2 (yes option C or 1c in previous section):
+
+Celia: Ok? Bye bitch.
+
+*club sign up section ends*
+*Art club option removed*
+*Return to club selection*
+
+If option 3:
+
+Celia: Don’t think too long!
+
+*club sign up section ends*
+*Return to club selection*
+
+If option 3 (yes option C or 1c in previous section):
+
+Celia: Or you know, you can just go die?
+
+*club sign up section ends*
+*Return to club selection*
+
+If club option 2:
+
+Pending
+
+If club option 3:
+
+Pending
+
+If club option 6:
+
+Emily(concerned): What’s wrong?
+
+James: Well….
+Aren’t there any...other options?
+These seem really lame and generic. Did I mention lame?
+I’m missing pokemon for this?
+Actually, I've decided.
+
+If selected option 2 for all sign up prompts:
+
+Emily(concerned): What’s wrong?
+
+James: Well….
+Aren’t there any...other options?
+These seem really lame and generic. Did I mention lame?
+I’m missing pokemon for this?
