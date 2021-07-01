@@ -29,7 +29,15 @@ define config.version = "1.00.00.0002"
 ## Text that is placed on the game's about screen. Place the text between the
 ## triple-quotes, and leave a blank line between paragraphs.
 
-define gui.about = _p("""
+define gui.about = _p("""Project Graphite.
+A Liberation Group game.
+
+Project Graphite is licensed under GPLv3
+https://www.gnu.org/licenses/gpl-3.0.en.html
+
+Anyone is free to view, study, copy, share, and modify the source code.\
+All source code, including modifications, must be released under the same\
+license terms. Credit must be given to the original source code author(s).
 """)
 
 
