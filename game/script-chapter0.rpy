@@ -17,7 +17,7 @@ label start:
     yet inevitably drift apart."
 
     show chr-emily-smile:
-        xalign 0.5
+        xalign 0.0
 
     e "Oh! Good morning James!"
 
