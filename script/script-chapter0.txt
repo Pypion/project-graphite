@@ -1,12 +1,18 @@
 Scene 0:
 
-James: The final year of high school starts today, my last chance at a lot of things. I feel like the supposed best years of my life were wasted. 
+James: The final year of high school starts today, my last chance at a lot of things. 
 
-I got good grades, teachers are quick to heap me with praise and offers of college recommendation letters, which is cool I guess, but I’ve never reached that one milestone, the right of passage for everyone on the cusp of adulthood. I never had a girlfriend.
+James: I feel like the supposed best years of my life were wasted. 
 
-I mean, there’s been a girl I’ve liked, since forever basically, but I've never had the guts to tell her. It never works out with friends, you either confess and ruin the friendship, or try to stay friends but slowly yet inevitably drift apart.
+James: I got good grades, teachers are quick to heap me with praise and offers of college recommendation letters, which is cool I guess, but I’ve never reached that one milestone, the right of passage for everyone on the cusp of adulthood. 
 
-The way I see it, I’ve got a 50/50 chance, and since its the last year and I can just fuck off to a college across the country if it goes south, I’m making this my year. 
+James: I never had a girlfriend.
+
+James: I mean, there’s been a girl I’ve liked, since forever basically, but I've never had the guts to tell her. 
+
+James: It never works out with friends, you either confess and ruin the friendship, or try to stay friends but slowly yet inevitably drift apart.
+
+James: The way I see it, I’ve got a 50/50 chance, and since its the last year and I can just fuck off to a college across the country if it goes south, I’m making this my year. 
 
 *Emily enters*
 
@@ -16,32 +22,40 @@ James: (internal) Shit! It's Emily, when I said I would shoot my shot this year,
 
 James (blushing): Morning Emily, what’s up?
 
-Emily: Oh you know, same old, same old. Hey! Glad I caught you, were you planning on joining any clubs?
+Emily: Oh you know, same old, same old. 
+
+Emily: Hey! Glad I caught you, were you planning on joining any clubs?
 
 Branching paths:
 
-Yeah...clubs...was just thinking about them, which are you in again?
+1. Yeah...clubs...was just thinking about them, which are you in again?
 
-What? No, the less time I spend in school the better
+2. What? No, the less time I spend in school the better
 
-Yeah actually, I had one in mind.
+3. Yeah actually, I had one in mind.
 
 If option 1.
 
-Emily: You completely forgot about the festival didn’t you? *giggles* that is so you. Anyway, I'm on the student committee, we oversee all the club activities. We’re holding a club fair after school, you should drop by.
+Emily: You completely forgot about the festival didn’t you? *giggles* that is so you. 
+
+Emily: Anyway, I'm on the student committee, we oversee all the club activities. We’re holding a club fair after school, you should drop by.
 
 James:
-Remind me, what’s this festival about?
-Sounds like fun! You’ll be there right?
-After school? Yeah...no...I have plans. Doing other stuff, that’s not in school.
+a. Remind me, what’s this festival about?
+b. Sounds like fun! You’ll be there right?
+c. After school? Yeah...no...I have plans. Doing other stuff, that’s not in school.
 
 If A:
 
-Emily: You know that big field and empty lot behind the school? It used to be a community market. People would come to sell their art, vendors would sell food, there were musicians, and even a farmers market. 
+Emily: You know that big field and empty lot behind the school? It used to be a community market. 
+
+Emily: People would come to sell their art, vendors would sell food, there were musicians palying on weekends, and even a farmers market. 
 
 James: Really? It just looks like an abandoned lot.
 
-Emily: Well, yeah, now it is, but it wasn’t always. The city just got too expensive and people who’ve been here for generations got displaced, and the market kind of died out.
+Emily: Well, yeah, now it is, but it wasn’t always. 
+
+Emily: The city just got too expensive and people who’ve been here for generations got displaced, and the market kind of died out.
 
 James: Yeah, I heard about that, Gentrification or something right?
 
@@ -49,7 +63,9 @@ Emily: (happy) Yes! That’s exactly it! And ever since the new train station go
 
 James: That's awful! ...Isn’t it?
 
-Emily: It is because even more people will be displaced and this neighborhood will lose the last of its character and charm. The festival is our last chance to bring back a timeless tradition and cornerstone of our community! People used to come from across the city to the market for art, music, and food.
+Emily: It is! Because even more people will be displaced and this neighborhood will lose the last of its character and charm. 
+
+Emily: The festival is our last chance to bring back a timeless tradition and cornerstone of our community! People used to come from across the city to the market for art, music, and food.
 
 James: Sounds like a big deal.
 
@@ -106,7 +122,9 @@ Emily: (disgusted) you know what, forget I asked.
 
 
 
-Emily: Oh shoot, I’m going to be late. Anyway, the club fair is after last bell in the student commons. If you can break away from your oh so busy schedule, I hope you can join us.
+Emily: Oh shoot, I’m going to be late. Anyway, the club fair is after last bell in the student commons. 
+
+Emily: If you can break away from your oh so busy schedule, I hope you can join us.
 
 Story converges here
 
@@ -115,9 +133,9 @@ If Option 2:
 
 Emily (disappointed): I mean, I guess I understand, but this is for a good cause and I promise it will be really fun. Will you reconsider?
 
-Remind me, what’s this festival about?
-I’ll think about it
-Yeah, no.
+a. Remind me, what’s this festival about?
+b. I’ll think about it
+c. Yeah, no.
 
 If A:
 
@@ -125,7 +143,9 @@ Emily: You know that big field and empty lot behind the school? It used to be a 
 
 James: Really? It just looks like an abandoned lot.
 
-Emily: Well, yeah, now it is, but it wasn’t always. The city just got too expensive and people who’ve been here for generations got displaced, and the market kind of died out.
+Emily: Well, yeah, now it is, but it wasn’t always. 
+
+Emily: The city just got too expensive and people who’ve been here for generations got displaced, and the market kind of died out.
 
 James: Yeah, I heard about that, Gentrification or something right?
 
@@ -133,7 +153,9 @@ Emily: (happy) Yes! That’s exactly it! And ever since the new train station go
 
 James: That's awful! ...Isn’t it?
 
-Emily: It is because even more people will be displaced and this neighborhood will lose the last of its character and charm. The festival is our last chance to bring back a timeless tradition and cornerstone of our community! People used to come from across the city to the market for art, music, and food.
+Emily: It is because even more people will be displaced and this neighborhood will lose the last of its character and charm.
+
+Emily: The festival is our last chance to bring back a timeless tradition and cornerstone of our community! People used to come from across the city to the market for art, music, and food.
 
 James: Sounds like a big deal.
 
@@ -143,14 +165,18 @@ Return to options B and C
 
 If B:
 
-Emily: (annoyed) It's not a no I guess. Anyway, if you want to join us, the club fair is after last bell in the student commons.
+Emily: (annoyed) It's not a no I guess. 
+
+Emily: Anyway, if you want to join us, the club fair is after last bell in the student commons.
 
 *bell rings*
 Story converges
 
 If C:
 
-Emily: (annoyed) no need to be an ass about it. Anyway, if you do decide to join us, the club fair is after last bell in the student commons.
+Emily: (annoyed) no need to be an ass about it. 
+
+Emily: Anyway, if you do decide to join us, the club fair is after last bell in the student commons.
 
 James loses affection with Emily.
 
