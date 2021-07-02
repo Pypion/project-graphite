@@ -38,7 +38,7 @@ https://www.gnu.org/licenses/gpl-3.0.en.html\n
 Anyone is free to view, study, copy, share, and modify the source code.\n
 All source code, including modifications, must be released under the same\n
 license terms. Credit must be given to the original source code copyright\n
-holders.\n
+holders. A copy of GPLv3 license must be included.\n
 \n
 """)
 
