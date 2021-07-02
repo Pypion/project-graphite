@@ -83,12 +83,13 @@ James: Yeah, of course, I wouldn't miss it…
 Emily: Well, since you're here, why don’t you browse the different clubs? We’re almost done setting up.
 
 Choose:
-Art Club
-Film Club
-Music Club
-Film club
-Gardening Club
-On Second thought…
+1.Art Club
+2. Film Club
+3. Music Club
+4. Film club
+5. Gardening Club
+6. Cooking Club
+7. On Second thought…
 
 If option 1:
 
@@ -201,13 +202,327 @@ Celia: Or you know, you can just go die?
 
 If club option 2:
 
-Pending
+If club option 2:
+
+Anna: ….
+
+James: Hi.
+
+Anna:...
+
+James: uh….
+
+Anna: ....Marvelous. Simply marvelous.
+
+James: Excuse me?
+
+Anna: (startled) Eek! How long have you been there?
+
+James: Not too long, what are you watching?
+
+Anna: Oh! Right, I just finished Promising Young Woman. I’m kinda on a female director binge at the moment.
+
+James:
+Oh yeah? What was it about?
+I take it this is the film club then, right?
+Good movies are good movies, SJW’s always wanna make things about race and gender.
+If option 1:
+
+Anna: It's great! It’s a dark comedy about a woman who wants to avenge her best friend who died after being sexually assaulted.
+
+James: That..certainly is dark. And it's a comedy?
+
+Anna: Mhmm. It shines a light on a lot of the violence perpetrated against women and the struggles we face under a patriarchal society. Its heavy subject matter, but pointing out the absurdity of these systems is oddly cathartic and hilarious.
+
+*return to options*
+*option 1 removed*
+
+If option 2:
+
+Anna: Oh! Right, sorry, yes. Yes! This is the film club...ummmm did you want to sign up?
+
+James: If you could tell me a little about what you do in the club first…
+
+Anna: oh...OH! Yeah, of course. Um, well...this is a film club and….we watch films, good films, indie films and international films mostly. Um...and...yeah...we talk about them...I’m sorry, I’m rambling…
+
+James:
+2a. No, you're fine.
+2b. A little bit. How do you decide what movies to watch?
+2c. You still didn’t answer the question.
+
+If 2a:
+
+Anna (embarrassed): Thanks...in truth, I only recently became de facto club president. No...that’s not exactly true, the club actually disbanded last year due to low attendance. I’m actually trying to restart it….
+
+James: Oh cool, you must be really passionate about film.
+
+Anna: Yeah, you could say that (nervous laughter) but to answer your first question, we generally meet up to watch a movie and discuss its themes, cinematography, writing, the acting, you, the various parts that make up a film. So, there’s always a little bit of something for everyone…
+
+*James gains affection*
+
+Story converges:
+
+If 2b:
+
+Anna: Oh...sorry...I tend to do that. Um...well so far I've just been catching up on my back catalogue, buuuut, if someone were to join, I’d be more than open to suggestions.
+
+*James gains small amount of affection*
+
+Story converges:
+
+If 2c:
+
+Anna: Oh...sorry...I tend to do that. Um, yeah, so we have discussions about the movies we watched, usually about thematic elements and cinematography...That sorta stuff…
+
+James: Sounds interesting.
+
+Anna: yeah….
+
+*James loses affection with Anna*
+
+Story converges:
+
+If 3:
+
+Anna:(nervous laughter)...wait, you’re serious?  Wow! I...really? Hmmm….I don’t have the emotional capacity to engage you on this...bullshit right now, nor am I required to cure you of your ignorance, but I’ll try I guess.  Here, go check out Intersectionality as Critical Social Theory by Patricia hill Collins, they have it in the library. Also read literally anything by Kimberle Crenshaw. If reading isn’t your thing, Contrapoints has some good videos on youtube, but they can run a little long. If you can only pay attention for 15 minutes or less, then look up Intersectionality, critical race theory, or feminist film theory on Ted talks. 
+
+James: I thought this was a film club.
+
+Anna:...Yeah, about that...I’m actually reconsidering running a club….so…..
+
+James: So I can’t join the club?
+
+Anna: No dude.
+
+*return to club select*
+*remove Film club option*
+Story converges:
+
+Story continues:
+
+If option 2, 2a, 2b, 2c:
+
+Anna: So...did you want to join?
+
+James is prompted to sign up for the Film club:
+
+Yes
+No
+Let me think about it…
+
 
 If club option 3:
 
-Pending
+If club option 3:
 
-If club option 6:
+Joycelin:...you want something?
+
+James:
+Uh...are you recruiting for a club?
+Are you a blasian?
+No, I don’t actually.
+
+If option 1:
+
+Joycelin: Depends, what kind of music are you into?
+
+James:
+
+1a. I’m kinda down with whatever
+1b. I don’t know, EDM or something?
+1c. I’m partial to country
+1d. There’s this prog metal band from Japan I found on bandcamp recently...
+
+
+If 1a:
+
+Joycelin: *sigh* a boring ass answer that’s rarely accurate, I bet I could list ten genres you have either no interest in or never heard of. You probably still listen to terrestrial radio.
+
+James: Ouch. and what about you then?
+
+Joycelin: Doom, Death, Depressive Black metal, Mid-west Emo and 90’s emo, Skramz, Progressive Metal, Technical Death Metal…
+
+James: Jesus…
+
+Joycelin: Yeah, it's a little eclectic, but better than generic.
+
+Story converges
+
+If 1b:
+
+Joycelin: Eh, no big shocker there. Better than country I guess.
+
+Story converges
+If 1c:
+
+Joycelin: Ew.
+
+*James loses affection with Joycelin*
+
+Story converges.
+
+If 1d:
+
+Joycelin (surprised/excited): Oh yeah? Me and you might actually have something to talk about then.
+
+*James gains affection with Joycelin*
+
+Story converges
+
+If option 2:
+
+Joycelin: *sigh* Here we go again. Yes, I am black and asian. My mother is black and my dad is chinese. No it's not weird or as rare as you think. No I’m not interested in dating you, or if it helps your little ego, I already have a boyfriend.
+
+*James loses affection with Joycelin*
+
+James:
+
+2a: My bad, wasn’t trying to be offensive or anything.
+2b. I was actually going to ask about the club next, but thanks, I guess.
+2c. Is it true what they say about asian girls?
+
+If 2a:
+
+Joycelin: Then next time don’t ask offensive shit maybe?
+
+*return to option select*
+*remove option 2*
+
+Story converges:
+
+If 2b:
+
+Joycelin: Then lead with that maybe? This isn’t high concept shit dude.
+
+*return to option select*
+*remove option 2*
+
+Story converges:
+
+If 2c:
+
+Joycelin: (angry) That we don’t have patience for dickwads that want to fetishize an entire race of people? Yeah, that’s accurate.
+
+James: i jus-
+
+Joycelin: Boy, bye.
+
+*james loses lots of affection*
+*return to club select screen*
+*option 3 removed from club select screen*
+
+Story continues:
+If option 3:
+
+Joycelin: Ok, then why are you bothering me with your presence? Move.
+
+*return to club select screen*
+
+Story continues:
+
+If option 1, 1a, 1b:
+
+Joycelin: So this is a music club or whatever, with real instruments. We don’t make beats, and we don’t dick around on the computer making beeps and boops. Any questions?
+
+James:
+
+Ok boomer.
+Is mayonnaise an instrument?
+Nope, I’m good.
+
+If a:
+Joycelin: Call me a boomer all you fucking want. I’m not discrediting other genres and methods, it's just not what we do. Besides, the school only has second hand physical instruments, so we couldn’t do digital even if we wanted to.
+
+*return to options*
+*Option a removed*
+
+If B:
+
+Joycelin: *sigh* no Patrick, mayonnaise is not an instrument, but it is a dope song by The Smashing Pumpkins. Got any other stupid questions or dated memes?
+
+*James gains some affection with Joycelin:
+
+*return to options*
+*option b removed*
+
+Story converges
+
+If C:
+
+Joycelin: Good, so you gonna sign up or not?
+
+James is prompted to sign up for the Music club:
+
+4. Yes
+5. No
+6. Let me think about it…
+
+Story continues:
+
+If option 4, with 1a, 1b, or 1c, 2a, or 2b:
+Joycelin: Alright, sign up here with an email. Club meets on Wednesdays and Fridays after school. Don’t be late.
+
+*club sign up section ends*
+*Return to Emily*
+
+Story converges:
+
+If option 4 with 1c:
+
+Joyceline: Fuck yeah dude! Group meets on Wednesdays and Fridays after school, you can show me that prog metal band you were talking about earlier.
+
+*James gains some affection with Joycelin*
+*club sign up section ends*
+*Return to Emily*
+
+Story converges:
+
+If option 5 with 1a, 1b, or 1c, 2a, or 2b:
+
+Joycelin: Whatever…
+
+*club sign up section ends*
+*Music club option removed*
+*Return to club selection*
+
+Story converges:
+
+If option 5 with 1c:
+
+Joycelin: What? Seriously? *sigh* I get it dude….I think it might be time for me to move on too...
+
+*club sign up section ends*
+*Music club option removed*
+*Return to club selection*
+
+Story converges:
+
+If option 6 with 1a, 1b, or 1c, 2a, or 2b:
+
+Joycelin (eyeroll/disinterested): take your time….
+
+*club sign up section ends*
+*Return to club selection*
+
+Story converges:
+
+Story continues:
+
+If option 6 with 1c:
+
+Joycelin: Ok, but don’t think too hard about it. By the way, I put some of my band's demo tapes on Bandcamp, you should check us out. We’re called The Disemboweled Waifu’s Glamor Doll Castration Magic.
+
+James: That's one hell of a name.
+
+Joycelin: I know right?
+
+*club sign up section ends*
+*Return to club selection*
+
+Story converges:
+Story Continues:
+
+If club option 7:
 
 Emily(concerned): What’s wrong?
 
