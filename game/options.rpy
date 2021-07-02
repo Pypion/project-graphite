@@ -23,7 +23,7 @@ define gui.show_name = True
 
 ## The version of the game.
 
-define config.version = "1.00.00.0006"
+define config.version = "1.00.00.0007"
 
 
 ## Text that is placed on the game's about screen. Place the text between the
@@ -32,13 +32,14 @@ define config.version = "1.00.00.0006"
 define gui.about = _p("""Graphite.
 A Liberation Group game.
 
-Project Graphite is licensed under GPLv3\n
+Graphite is licensed under GPLv3\n
 https://www.gnu.org/licenses/gpl-3.0.en.html\n
 \n
 Anyone is free to view, study, copy, share, and modify the source code.\n
 All source code, including modifications, must be released under the same\n
 license terms. Credit must be given to the original source code copyright\n
-holders.
+holders.\n
+\n
 """)
 
 

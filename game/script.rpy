@@ -43,6 +43,8 @@ label route0:
     so you. Anyway, I'm on the student committee, we oversee all the club\
     activities. We’re holding a club fair after school. You should drop by."
 
+#label choice1:
+    
     menu choice1:
         "Remind me. What’s this festival about?":
             jump route0a
@@ -84,6 +86,8 @@ label route0a:
 
     e "It totally is! That’s why you’ll help out by joining a club, right?"
 
+    jump choice1
+
 label route0b:
     
     e "Great! I knew I could count on you! The fair is after last bell in the\
@@ -97,6 +101,8 @@ label route0b:
 
     # Love points +1
 
+    jump chapter0_end
+        
 label route0c:
 
     show chr-emily-annoyed
@@ -118,6 +124,8 @@ label route0c0:
 
     #play sound "sch-bell.wav"
 
+    jump chapter0_end
+
 label route0c1:
     
     e "What are you, like 5? It's not like that show has changed in the, what,\
@@ -126,6 +134,8 @@ label route0c1:
     # Love points -1
 
     #play sound "sch-bell.wav"
+
+    jump chapter0_end
 
 label route0c2:
 
@@ -138,6 +148,10 @@ label route0c2:
     e "Oh shoot, I’m going to be late. Anyway, the club fair is after last bell\
     in the student commons. If you can break away from your oh so busy\
     schedule, I hope you can join us."
+
+    jump chapter0_end
+    
+label chapter0_end:
     
     # If love points = 0
     #j "That went... some way..."
