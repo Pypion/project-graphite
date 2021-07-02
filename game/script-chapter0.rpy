@@ -16,7 +16,8 @@ label start:
     either confess and ruin the friendship, or try to stay friends but slowly\
     yet inevitably drift apart."
 
-    show chr-emily-smile
+    show chr-emily-smile:
+        yalign 0.8
 
     e "Oh! Good morning James!"
 
