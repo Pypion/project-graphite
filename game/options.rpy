@@ -12,7 +12,7 @@
 ##
 ## The _() surrounding the string marks it as eligible for translation.
 
-define config.name = _("graphite")
+define config.name = _("Graphite")
 
 
 ## Determines if the title given above is shown on the main menu screen. Set
@@ -23,7 +23,7 @@ define gui.show_name = True
 
 ## The version of the game.
 
-define config.version = "1.00.00.0007"
+define config.version = "1.00.00.0008"
 
 
 ## Text that is placed on the game's about screen. Place the text between the
