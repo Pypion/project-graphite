@@ -86,10 +86,9 @@ Choose:
 1.Art Club
 2. Film Club
 3. Music Club
-4. Film club
-5. Gardening Club
-6. Cooking Club
-7. On Second thought…
+4. Gardening Club
+5. Cooking Club
+6. On Second thought…
 
 If option 1:
 
@@ -284,15 +283,19 @@ Story converges:
 
 If 3:
 
-Anna:(nervous laughter)...wait, you’re serious?  Wow! I...really? Hmmm….I don’t have the emotional capacity to engage you on this...bullshit right now, nor am I required to cure you of your ignorance, but I’ll try I guess.  Here, go check out Intersectionality as Critical Social Theory by Patricia hill Collins, they have it in the library. Also read literally anything by Kimberle Crenshaw. If reading isn’t your thing, Contrapoints has some good videos on youtube, but they can run a little long. If you can only pay attention for 15 minutes or less, then look up Intersectionality, critical race theory, or feminist film theory on Ted talks. 
+Anna:(nervous laughter)...wait, you’re serious?  Wow! I...really? Hmmm…
+I don’t have the emotional capacity to engage you on this...bullshit right now, nor am I required to cure you of your ignorance, but I’ll try I guess.  
+Here, go check out Intersectionality as Critical Social Theory by Patricia hill Collins, they have it in the library. 
+Also read literally anything by Kimberle Crenshaw. If reading isn’t your thing, Contrapoints has some good videos on youtube, but they can run a little long. 
+If you can only pay attention for 15 minutes or less, then look up Intersectionality, critical race theory, or feminist film theory on Ted talks. 
 
 James: I thought this was a film club.
 
-Anna:...Yeah, about that...I’m actually reconsidering running a club….so…..
+Anna:...Yeah, about that...I’m actually reconsidering running a club…so…
 
 James: So I can’t join the club?
 
-Anna: No dude.
+Anna: No...
 
 *return to club select*
 *remove Film club option*
@@ -306,12 +309,33 @@ Anna: So...did you want to join?
 
 James is prompted to sign up for the Film club:
 
-Yes
-No
-Let me think about it…
+4. Yes
+5. No
+6. Let me think about it…
 
+If option 4:
 
-If club option 3:
+Anna: Are you sure? I mean, yes, of course! I honestly wasn’t expecting a yes.
+
+*James gains some affection with Anna*
+*club sign up section ends*
+*Return to Emily*
+
+If option 5:
+
+Anna (disappointed): Oh, sorry...I probably wasn’t very convincing…
+
+*club sign up section ends*
+*Film club option removed*
+*Return to club selection*
+
+If option 6:
+
+Anna: Oh, well, I’ll be here then...
+
+*club sign up section ends*
+*Return to club selection*
+
 
 If club option 3:
 
@@ -522,7 +546,156 @@ Joycelin: I know right?
 Story converges:
 Story Continues:
 
-If club option 7:
+If club option 4:
+
+Amanda (surrounded by boys): Oh? Do I have another strong boy interested in joining the Gardening club? Oh my! Whatever will I do? I’m not sure I made enough cookies for everyone...
+
+James: 
+
+What is happening here?
+1. They smell delicious, but I can go without, for today.
+2. I’ll be fine with just a glass of milk…
+3. Holy jesus woman! Your tits are huuuge!
+
+If option 1:
+
+Amanda: Oh, I’m sorry, where are my manners? My name is  Amanda, I run the Garden club, which also doubles as a community garden for this neighborhood.
+
+James: That sounds like a big responsibility.
+
+Amanda (smiles): it is, but we have fun. Plus, I have all these strong boys here to help. Who knew so many in our school had a green thumb?
+
+James: Right...
+
+Amanda: Still… I wish I had more cookies...Maybe Frankie made extra…
+
+*return to options*
+*grey out option 1*
+
+Story converges:
+
+If option 2:
+
+Amanda: Fufufu, well aren’t you so mature. Well then, if you can forgive me for not making enough today, I'll bake a fresh batch just for you. You can pick them up on the first day of the club. Which, by the way, is every Monday, Wednesday, and Friday.
+
+James: With an offer like that, how could I refuse?
+
+Amanda: Yes, how indeed?
+
+*James is prompted to join Gardening Club*
+Story converges:
+
+If option 3:
+
+Amanda: (seductive smirk): I think I can oblige.
+
+*james gains affection with amanda*
+*return to options*
+*grey out option 3*
+
+Story converges:
+
+If option 4:
+
+Amanda: That was a rude thing to say, instead of offering cookies, I should be teaching you some manners.
+
+James:
+
+4a. I’m sorry, I’ve been bad and deserve punishment.
+4b. Can I get some milk with those cookies?
+4c. Are you gonna give me a spanking, or perhaps you’re the one who needs a paddlin’?
+
+If 4a:
+
+Amanda: Indeed, and I know just the thing to straighten out naughty little boys with potty mouths, some good old fashioned hard work toiling in the soil under a hot sun.
+
+*James gains some affection with Amanda*
+ 
+Story converges:
+
+If 4b:
+
+Amanda: (Annoyed) This schtick stopped being cute yesterday. Learn to take a hint.
+
+*James loses affection with Amanda*
+*return to options 4a-b*
+*remove option 4b*
+
+Story converges:
+
+If 4c:
+Amanda: I’m not sure you get how this works just yet, but don’t worry, I'll teach you.
+
+James: I’m looking forward to my first lesson.
+
+Amanda: (smiles) Yes, they all say that.
+
+Story converges:
+
+Story continues:
+
+James is prompted to sign up for the Gardening club:
+
+A. Yes
+B. No
+C. Let me think about it…
+
+If option A with 2, 4a, or 4c:
+
+Amanda: (Smiles) I knew you would make the right decision, now, come join the other boys while I go see about getting some more cookies.
+
+*James gains some affection with Amanda*
+*club sign up section ends*
+*Return to Emily*
+
+If option A with 4b:
+
+Amanda: Good, now since you seem to have a potty mouth, how about you go fetch me a bar of soap so I can wash it out. Then, maybe, I’ll let you have some of the crumbs from these delicious cookies.
+
+*James loses some affection with Amanda*
+*club sign up section ends*
+*Return to Emily*
+
+If B with 2, 4a, or 4c:
+
+Amanda: Aww, really? We could have had so much fun though. 
+
+James: Yeah, sorry, I'm just not a gardener.
+
+Amanda: Now, now, let's not make it harder than it needs to be. Now, c’mere and let me give you a hug.
+
+*club sign up section ends*
+*Gardening club option removed*
+*Return to club selection*
+
+Story converges:
+
+If option B with 4b:
+
+Amanda: Hmm, not everyone can handle it.
+
+James: you’re talking about gardening right?
+
+Amanda: (smirks) Uh-huh. Buh-bye!
+
+*club sign up section ends*
+*Gardening club option removed*
+*Return to club selection*
+
+Story converges:
+
+If option C:
+
+Amanda: Well, you’re certainly welcome to stop by later, but I can’t guarantee you’ll get a cookie.
+
+*club sign up section ends*
+*Return to club selection*
+
+Story continues:
+
+
+
+If club option 6:
 
 Emily(concerned): What’s wrong?
 
