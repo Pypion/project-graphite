@@ -5,11 +5,11 @@ label start:
 
     scene loc-sch-ext
 
-    j "The final year of high school starts today, my last chance at a lot of\
+    j "The final year of high school starts today; my last chance at a lot of\
     things. I feel like the best years of my life were wasted."
 
     j "I got good grades, teachers are quick to heap me with praise and\
-    offers of college recommendation letters, Which is cool I guess; but I’ve\
+    offers of college recommendation letters, which is cool I guess; but I’ve\
     never reached that one milestone, the right of passage for everyone on the\
     cusp of adulthood..."
 
@@ -18,17 +18,17 @@ label start:
     j "I mean, there’s been a girl I’ve liked, since forever, basically, but\
     I've never had the guts to tell her."
 
-    j "It never works out with friends.{w} You either confess and ruin the\
+    j "It never works out with friends. You either confess and ruin the\
     friendship, or try and stay friends but slowly yet inevitably drift apart."
 
     show chr-emily-smile at truecenter
 
-    e "Oh! Good morning James!"
+    e "Oh! Good morning, James!"
 
     j "{i}Shit! It's Emily! When I said I would shoot my shot this year, I\
     didn’t mean right this moment!{\i}"
 
-    j "Morning, Emily. What’s up?"
+    j "Morning, Emily. What's up?"
 
     e "Oh, you know, same old, same old. Were you planning on joining any\
     clubs?"
