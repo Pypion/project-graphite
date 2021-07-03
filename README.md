@@ -17,7 +17,13 @@ A copy of GPLv3 license must be included.
 <br/>
 
 ## Policy
+### Contributing
 To contribute to the project, submit a pull request. All pull requests are subject to approval.<br/>
+Your code must follow the standard style for Liberation Group code:<br/>
+- 80 character line limit.
+- Tab spaces as indents.
+- 1 tab space is 4 characters.<br/>
+<br/>
 Files must be stored in their related folders.<br/>
 Text files must be stored as plain text (.txt) or Markdown (.md) files.<br/>
 All dates and times must be ISO 8601 compliant (YYYY-MM-DD HH:MM).<br/>
