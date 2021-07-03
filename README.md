@@ -37,7 +37,6 @@ Development branch. All pull requests must be made to the dev branch.<br/>
 
 ### beta
 Beta branch. All beta testing of the software happens here.<br/>
-All revision changes to files must be made in the beta branch.<br/>
 
 ### stable
 Stable branch. Complete and stable versions of the software are stored here.<br/>
