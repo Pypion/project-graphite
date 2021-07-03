@@ -1,5 +1,4 @@
 # Chapter 1.
-
 label start:
 
     show screen varz
@@ -10,12 +9,11 @@ label start:
     things. I feel like the best years of my life were wasted."
 
     j "I got good grades, teachers are quick to heap me with praise and\
-    offers of college recommendation letters."
+    offers of college recommendation letters, Which is cool I guess; but I’ve\
+    never reached that one milestone, the right of passage for everyone on the\
+    cusp of adulthood..."
 
-    j "Which is cool I guess, but I’ve never reached that one milestone, the\
-    right of passage for everyone on the cusp of adulthood:"
-
-    j "I never had a girlfriend."
+    j "I've never had a girlfriend."
 
     j "I mean, there’s been a girl I’ve liked, since forever, basically, but\
     I've never had the guts to tell her."
@@ -52,7 +50,7 @@ label start:
 
 label route0:
 
-    # Set Emily expression to giggle.
+    show chr-emily-giggle at truecenter
 
     e "You completely forgot about the festival didn’t you? *giggles* that is
      so you."
@@ -86,16 +84,16 @@ label route0:
         e "Well, yeah, now it is, but it wasn’t always."
 
         e "The city just got too\
-        expensive and people who’ve been here for generations got displaced, and\
-        the market kind of died out."
+        expensive and people who’ve been here for generations got displaced,\
+        and the market kind of died out."
 
         j "Yeah, I heard about that. Gentrification or something right?"
 
-        # Set Emily expression to happy
+        show chr-emily-smile at truecenter
 
         e "Yes! That’s exactly it!"
 
-        # Set Emily expression back to default.
+        show chr-emily-neut at truecenter
 
         e "And ever since the new train station got built,\
         the city wants to let some tech companies build offices and luxury\
@@ -127,7 +125,7 @@ label route0:
 
     label route0b:
 
-        # Set Emily expression to happy
+        show chr-emily-smile at truecenter
 
         e "Great! I knew I could count on you! The fair is after last\
         bell in the student commons, okay?"
@@ -144,7 +142,7 @@ label route0:
 
     label route0c:
 
-        # Set Emily expression to annoyed
+        show chr-emily-annoy at truecenter
 
         e "Really? Like what?"
 
@@ -171,7 +169,8 @@ label route0:
         label route0c1:
 
             e "What are you, like 5? It's not like that show has changed in\
-            the, what, 25 years its been on TV? I’m sure you can miss one episode."
+            the, what, 25 years its been on TV? I’m sure you can miss one\
+            episode."
 
             $ points_love -= 1
 
@@ -181,7 +180,7 @@ label route0:
 
         label route0c2:
 
-            # Set Emily expression to disgust.
+            show chr-emily-disgust at truecenter
 
             $ chapter0_main_route -= 1
 
@@ -205,7 +204,7 @@ label route0:
 
 label route1:
 
-    # Set Emily expression to disappointed.
+    show chr-emily-disap at truecenter
 
     e "I mean, I guess I understand, {w}but this is for a good cause and I\
     promise it will be really fun."
@@ -226,13 +225,14 @@ label route1:
 
     label route1b:
 
-        # Set Emily expression to annoyed.
+        show chr-emily-annoy at truecenter
 
         e "It's not a no I guess."
 
-        # Set Emily expression to default.
+        show chr-emily-neut at truecenter
 
-        e "Anyway, if you want to join us, the club fair is after last bell in the student commons."
+        e "Anyway, if you want to join us, the club fair is after last bell in\
+        the student commons."
 
         #play sound "sch-bell.wav"
 
@@ -241,11 +241,12 @@ label route1:
 
     label route1c:
 
-        # Set Emily expression to annoyed.
+        show chr-emily-annoy at truecenter
 
         e "No need to be an ass about it."
 
-        e "Anyway, if you do decide to join us, the club fair is after last bell in the student commons."
+        e "Anyway, if you do decide to join us, the club fair is after last\
+        bell in the student commons."
 
         $ points_love -= 1
 
@@ -256,7 +257,7 @@ label route1:
 
 label route2:
 
-    # Set Emily expression to suprised.
+    show chr-emily-supr at truecenter
 
     e "Really? {w}That's great!"
 
@@ -265,7 +266,7 @@ label route2:
 
     j "Yeah, I’ll be there."
 
-    # Set Emily expression to Happy.
+    show chr-emily-smile at truecenter
 
     e "Great, I’ll see you there then!"
 
@@ -280,7 +281,8 @@ label chapter0_end:
         j "{i}That went... some way...{\i}"
 
     elif points_love >= 1:
-        j "{i}That went... better than expected. I might actually stand a chance!{\i}"
+        j "{i}That went... better than expected. I might actually stand a\
+        chance!{\i}"
 
     else:
         j "{i}God, what the hell is wrong with me?{\i}"
