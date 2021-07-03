@@ -55,7 +55,7 @@ label route0:
     e "You completely forgot about the festival didn’t you? *giggles* that is
      so you."
 
-    # Set Emily expression back to default.
+    show chr-emily-neut at truecenter
 
     e "Anyway, I'm on the student committee, we oversee all the club\
     activities."
@@ -89,11 +89,11 @@ label route0:
 
         j "Yeah, I heard about that. Gentrification or something right?"
 
-        show chr-emily-smile at truecenter
+        show chr-emily-smilebig at truecenter
 
         e "Yes! That’s exactly it!"
 
-        show chr-emily-neut at truecenter
+        show chr-emily-smile at truecenter
 
         e "And ever since the new train station got built,\
         the city wants to let some tech companies build offices and luxury\
@@ -125,7 +125,7 @@ label route0:
 
     label route0b:
 
-        show chr-emily-smile at truecenter
+        show chr-emily-smilebig at truecenter
 
         e "Great! I knew I could count on you! The fair is after last\
         bell in the student commons, okay?"
