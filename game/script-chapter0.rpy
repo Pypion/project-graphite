@@ -1,6 +1,8 @@
 # Chapter 1.
 label start:
 
+    $ renpy.block_rollback()
+
     #show screen varz
 
     scene loc-sch-ext
@@ -50,10 +52,13 @@ label start:
 
 label route0:
 
-    show chr-emily-giggle at truecenter
+    show chr-emily-smilebig at truecenter
 
-    e "You completely forgot about the festival didn’t you? *giggles* that is
-     so you."
+    e "You completely forgot about the festival didn’t you?"
+    
+    "Emily giggles."
+
+    e "That is so you."
 
     show chr-emily-neut at truecenter
 
@@ -83,11 +88,10 @@ label route0:
 
         e "Well, yeah, now it is, but it wasn’t always."
 
-        e "The city just got too\
-        expensive and people who’ve been here for generations got displaced,\
-        and the market kind of died out."
+        e "The city just got too expensive and people who’ve been here for\
+        generations got displaced, and the market kind of died out."
 
-        j "Yeah, I heard about that. Gentrification or something right?"
+        j "Yeah, I heard about that. Gentrification or something, right?"
 
         show chr-emily-smilebig at truecenter
 
