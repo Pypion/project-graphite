@@ -23,7 +23,7 @@ Your code must follow the standard style for Liberation Group code:<br/>
 - 80 character line limit.
 - Tab spaces as indents.
 - 1 tab space is 4 characters.<br/>
-- Comments must be used as often as possible for each different part of the code.
+- Comments must be used as often as possible for each different part of code.
 <br/>
 Files must be stored in their related folders.<br/>
 Text files must be stored as plain text (.txt) or Markdown (.md) files.<br/>
