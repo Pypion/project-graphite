@@ -1,7 +1,7 @@
 # Chapter 1.
 label start:
 
-    show screen varz
+    #show screen varz
 
     scene loc-sch-ext
 
