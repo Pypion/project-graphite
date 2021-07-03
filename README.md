@@ -33,7 +33,8 @@ All filenames must be most significant to least significant, lowercase, and hyph
 ## Branches
 
 ### dev
-Development branch. All pull requests must be made to the dev branch.<br/>
+Development branch. All pre-alpha development and alpha testing happens here.<br/>
+Pull requests must be made to the dev branch.<br/>
 
 ### beta
 Beta branch. All beta testing of the software happens here.<br/>
