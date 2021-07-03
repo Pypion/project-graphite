@@ -713,3 +713,196 @@ James: Well….
 Aren’t there any...other options?
 These seem really lame and generic. Did I mention lame?
 I’m missing pokemon for this?
+
+If option A:
+
+Emily: (disappointed) Didn’t find anything you liked?
+
+James: It's not that I didn't like any of the clubs, it's just I didn’t want to join any of them. If that makes sense.
+
+Emily: Hmmm. Yeah, I think I get where you’re coming from. Well, you can always start your own club.
+
+James: Pass.
+
+Emily (pouting): Why? You’re actually pretty popular, you know, I'm sure people would love to join a club you started.
+
+James: Most of the stuff I like to do are solo activities, and I'm not sure how you would form a club around it.
+
+Emily: Yeah, not sure how you can make a group about pretending to read classical literature at a cafe while people watching.
+
+James: Hey…
+
+Emily (laughs) I kid! I kid. But for reals though, how about joining the student committee? We would be overseeing all the groups, allocating funds, assigning club rooms, and coordinating events.
+
+James is prompted to sign up for the Student committee:
+
+1. Yes
+2. No
+3. Let me think about it…
+
+If option 1:
+
+Emily: Great! Honestly, we needed help and I wanted to ask you earlier, but I wasn’t sure if you would rather join a club.
+
+*james gains affection with emily*
+
+Story converges:
+
+If option 2 (other clubs are still available):
+
+Emily: (disappointed) Oh...well, it was just a thought. How about giving the clubs another look then?
+
+*James loses affection with Emily*
+*return to club select screen*
+
+Story converges:
+
+If option 2 (no other clubs available):
+
+Emily (annoyed): It's not like you have any other options right? I’m trying to do you a favor.
+
+*James loses affection with emily*
+*return to prompt to join student committee*
+
+If option 2 (no other clubs available) more than once:
+
+Emily (frustrated): Ok, then why did you come here then? 
+
+James:
+ 2a. I don’t know…
+2b. I told you I didn't want to come…
+
+Emily: Fine then, thanks for stopping by, but I’m not trying to force you to do something you don’t want to. 
+
+James: Alright...sorry it didn’t work out. I’ll see you around, yeah?
+
+Emily: (annoyed) It's going to be a busy year preparing for the festival. (sighs) But yeah, I’ll see you around James. 
+
+*James loses lots of affection with Emily*
+*transition to day of festival and emily’s bad ending*
+
+If option 3 (other clubs are available):
+
+Emily: Oh, sure, It might help to give the clubs another look. The offer for the student committee still stands though.
+
+*return to club select scene*
+
+Story converges:
+
+If option 3 (no other clubs available):
+
+Emily (annoyed): You can think all you want, but it doesn’t look like you have many options left.
+
+*return to student committee prompt*
+*remove option 3*
+
+Story converges:
+
+If option B:
+
+Emily: (annoyed) And you can do better?
+
+James: I don’t know. Maybe.
+
+Emily: Then why don’t you? I mean, I’m probably the only one who knows how much of a jerk you can be sometimes, but for everyone else, you’re actually pretty popular.
+
+James: Most of the stuff I like to do are solo activities, and I'm not sure how you would form a club around it.
+
+Emily: What, like touching yourself?
+
+James: Hey…
+Emily: You aren’t the only one who gets to make jokes.
+
+*return to options A-D*
+*remove option B*
+
+Story converges:
+
+If option C:
+
+Emily: I’m sure you can find the episode on the internet somewhere. It's not the end of the world.
+
+*return to options A-D*
+*remove option C*
+
+If Option D (no clubs visited):
+
+Emily: Already?
+
+James: Yeah, I found a flyer earlier.
+
+Emily: Oh, ok, so which one did you want?
+
+Art club
+Film club
+Music Club
+Gardening Club
+Cooking Club
+Student committee.
+
+If option 1-5:
+
+Emily: Oh! Great, I'll let the club's president know!
+
+Story converges:
+
+If option 6:
+
+Emily: Great! Honestly, we needed help and I wanted to ask you earlier, but I wasn’t sure if you would rather join a club.
+
+*james gains affection with emily*
+
+Story converges:
+If option D (clubs visited)
+
+Emily: Oh, cool. Which one did you decide on?
+
+*remove clubs James answered “no” to*
+
+Art club
+Film club
+Music Club
+Gardening Club
+Cooking Club
+Student committee.
+
+If option 1-5:
+
+Emily: That suits you actually. Why don’t you go and tell the club president you’ve decided?
+
+If option 6:
+
+Emily: Great! Honestly, we needed help and I wanted to ask you earlier, but I wasn’t sure if you would rather join a club.
+
+*james gains affection with emily*
+
+Story converges:
+
+Story continues:
+
+Emily: I’m so excited! I finally got you to sign up for a club after three freaking years!
+
+James: That’s not fair, I was on the baseball team.
+
+Emily: Yeah, for freshman and part of sophomore year. 
+
+James: I had other stuff going on…
+
+Emily: Mhmm. Hey, can you wait up while I help finalize the club lists? You can walk me home afterwards.
+
+James:
+
+Of course
+Actually, I really gotta get going…
+
+If option 1:
+
+Emily (happy): Yay! I’ll try and be quick.
+
+*james gains affection with emily*
+
+If option 2:
+
+Emily (disappointed) Oh, no, I understand. Don’t worry about it, I can just go home with one of the committee members.
+
+*james loses affection with emily*
