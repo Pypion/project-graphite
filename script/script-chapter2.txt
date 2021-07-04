@@ -1,1 +1,211 @@
+Title card: The next day
+
+Emily: Hey James! Ready for your first day?
+
+James: Yeah, I’m more than a little curious to find out what the student committee actually does.
+
+Emily: (laughs) Well, you have to pass your trials first before you can join the secret initiation in the basement.
+
+James:
+
+Wait, we have a basement?
+...For reals?
+Is it a blood ritual or an orgy?
+
+If 1:
+
+Emily: I don’t know, probably. Trust me, it's not as secretive as you think, committee duties are actually pretty boring sometimes. 
+
+James: Glad I decided to sign up then...
+Emily: Oh! But this year is different, we have so much planned! Now come on, let’s meet the rest of the committee!
+
+Story converges:
+
+If option 2:
+
+Emily: Mhmm. You’ll find out more on the fall equinox, but the student committee is super secret dating back to the founding of the school. They say every U.S. President was a part of this secret committee.
+
+James: ...you’re fucking with me.
+
+Emily: (Laughs) You just make it so easy.
+
+James: So what do you actually do?
+
+Emily: Monitor and oversee club activities mostly.
+
+Story converges:
+
+If option 3:
+
+Emily: (gasps) Well...uh… (angry) jeez James, why do you always have to take it there?
+
+James: You started it.
+
+Emily: Yeah, well, you know I don’t like that kinda stuff…
+
+James: I can’t help it, you’re just so cute when you're flustered.
+
+Emily: (blushing) W-would you stop joking around already? Let’s meet the rest of the committee.
+
+*james gains affection with Emily*
+
+Story converges:
+
+Story continues:
+
+ Emily: Alright Everyone! I want to introduce you to our newest member, James.
+
+Sara (generic background character): Hi, I'm sara.
+
+Marcus:...I’m Marcus.
+Caleb: Caleb. I’m the treasurer. However, you look familiar, didn’t we go to middle school together?
+
+James: I don’t recall, maybe?
+
+Emily: James and I went to the same middle school, I don’t recall seeing you either.
+
+Caleb (annoyed): I see, it was a long time ago after all. And I was never as popular as the two of you were.
+
+If James did not walk emily home:
+
+Caleb: By the way Emily, there’s a new dessert cafe that opened up at the station near your house, want to stop by after the committee?
+
+Emily (embarrassed): Maybe, talk to me after we wrap up, alright?
+
+James: (internal) Since when is she so buddy buddy with this jerk?
+
+Story continues:
+
+Emily: Right, so the big project is getting the community market up and running again, that includes clean-up and restoring the stalls.
+
+Marcus: Still waiting on the clubs to get back with proposals, but the Gardening club has offered to help with clearing out the lot.
+
+Sara: We can ask the art club to paint and refurbish some of the wooden stalls.
+
+Emily: Great! I’ll have James draft the flyer.
+
+James: Ok.
+
+Caleb: Not to be the bearer of bad news, but there is the issue of budget.
+
+Emily: Oh no…
+
+Caleb: Unfortunately, the school has slashed our budget for clubs.
+
+Emily: What for?
+
+Caleb: The baseball team requested new equipment. They were doing pretty well last year, and the school wants them at their best as they aim for nationals.
+
+Emily: How much did they cut it by?
+
+Caleb: Not much, merely a third.
+
+Emily: A third!
+
+James: Is it really that bad?
+
+Caleb: Not really, it just means we need to cut a club activity.
+
+Emily: We don’t have that many to begin with...if everyone isn’t able to participate, this could turn out to be a pretty lackluster festival.
+
+Caleb: Well, there is another option…
+
+Emily: I’m listening....
+
+Caleb: We can bring in another club, the club approval fees should cover at least some of the shortfall.
+
+Emily: (exasperated) Don’t tell me, the mentalists again?
+
+James: Mentalists? Aren’ those like wannabe psychics?
+
+Caleb: (annoyed) No. Mentalism is the subtle art of subterfuge, misdirection, and manipulation to make a target believe you have psychic prowess, when in reality, you simply guided them to the conclusion of your choosing.
+
+Emily: Caleb and his...friends have been proposing this club since last year. 
+
+Caleb: And yet you continue to dismiss my suggestion without giving adequate reason why.
+
+Marcus: We need more interactive elements at the festival, having a mentalist demonstration would be a surefire way to drum up some enthusiasm and engagement.
+
+Sara: That actually sounds pretty cool.
+
+Emily *sigh*: James? What do you think?
+
+James:
+
+If we had a budget cut, expansion doesn’t seem like the best option
+They do make a good point, interactive elements are needed
+
+If option 1:
+
+*James gets affection points with Emily*
+
+Caleb: (annoyed) Very well then. Since you were quick to make the decision to deny a club, it seems only fair you should also choose who gets the axe.
+
+*James is prompted to cut a club*
+
+1a. Art Club
+1b. Film Club
+1c. Music Club
+1d. Gardening Club
+1e. Cooking Club
+
+If 1a:
+
+Emily: Art club is only one member, and I don’t think Celia was able to recruit anyone new yesterday. *sigh* she’s going to be heartbroken...
+
+Story converges:
+
+If 1b:
+
+Caleb: Hmm. A good choice. I’m not sure what a club like that could have offered us anyway. All Anna does is sit around and watch movies by herself.
+
+Emily: *sigh* And they were technically an un-sanctioned club due to a lack of membership..Alright then. Film club it is.
+
+Story converges:
+
+If 1c:
+
+Emily: Hmmm. Joycelin did mention her band broke up recently, but I would have liked to have had some live music. Very well then, I’ll let her know.
+
+*james loses affection with Emily*
+
+Story converges:
+
+If 1d:
+
+Emily: (angry) Absolutely not! Gardening club is the cornerstone of this festival. We can’t just cut them out! Who will provide the produce for the farmers market?
+
+James: You asked me to pick a club.
+
+Caleb: Might I suggest an alternative? Instead of disbanding the club, we can reduce the budget for now, and ask members to procure supplies on their own, reimbursing them with the proceeds from the festivals.
+
+Emily: You know, that is actually an excellent idea. The school provides its own compost, and the custodian has been letting the club borrow equipment since the beginning. Yeah, this is a great idea!
+
+Caleb (smug): I’m glad you think so, i’ll go run the numbers and get back to you with the new budgets.
+
+*james loses affection with emily*
+
+Story converges:
+
+If 1e:
+
+Emily: (angry) Absolutely not! The Cooking club is the cornerstone of this festival. We can’t just cut them out! What kind of festival doesn’t have food vendors?
+
+James: You asked me to pick a club.
+
+Caleb: Might I suggest an alternative? Instead of disbanding the club, we can reduce the budget for now, and ask members to procure supplies on their own, reimbursing them with the proceeds from the festivals.
+
+Emily: You know, that is actually an excellent idea. Frankie often brings excess ingredients from her family's restaurant all the time, she might even be able to convince them to sponsor the club. Yeah, this is a great idea!
+
+Caleb (smug): I’m glad you think so, I’ll go run the numbers and get back to you with the new budgets.
+
+*james loses affection with emily*
+
+Story converges:
+
+If option 2:
+
+Caleb: (smug) we have you outnumbered president.
+
+Emily: So it seems. Very well, we can admit the new club.
 
