@@ -209,3 +209,245 @@ Caleb: (smug) we have you outnumbered president.
 
 Emily: So it seems. Very well, we can admit the new club.
 
+*on track for neutral end*
+
+Story converges:
+
+Story continues:
+
+Emily: Well, now that that's settled, Caleb, you get started on the budget, Me and James will get started on the marketing campaign.
+
+*transition*
+
+Story continues:
+
+If james walked Emily home:
+
+James: So what’s with that Caleb guy?
+
+Emily: What do you mean?
+
+James: I mean why is he on the student committee? Isn’t he kind of a bully?
+
+Emily: *sighs* Nothing proven, and we can’t kick him out on rumor and conjecture. Plus, he’s an honor student. But still….
+
+James: Go on.
+
+Emily: I don't know, he kind of gives me the creeps sometimes. He went to our middle school, or so he claims, but I don’t remember him at all.
+
+James: Eh, it was a big school. Not too big a deal.
+
+Emily: Right? But he apparently knows us and seems, I don’t know, upset that we don’t know him.
+
+James: Arrogant much?
+
+Emily: *laughs* Totally. And then there's that group of his.
+
+James: The mentalists?
+
+Emily: (annoyed) yeah, the mentalists. It's just an excuse to harass girls. They manipulate and gaslight girls into sleeping with them or sending nudes, then turn around and leak it on social media or send it to the girls’ contact lists. They’re depraved.
+
+If option 1 (no mentalist club)
+
+James: And still he’s on the student committee?
+
+Emily: (annoyed) again, nothing is proven, and the girls won’t talk, either due to fear or blackmail. I’m glad you backed me up on not letting them have a club.
+
+James: Yeah, no problem. He gave me some skeevy vibes too.
+
+Story converges:
+
+If selected option 2:
+
+James: And still he’s on the student committee?
+
+Emily: (annoyed) again, nothing is proven, and the girls won’t talk, either due to fear or blackmail. And you voted to sanction their little...group.
+
+James: My bad….
+
+Emily: At least they’re in one place and we can keep an eye on them I guess.
+
+Story converges:
+
+
+If James did not walk Emily home:
+
+James: So, since when are you so close with this Caleb guy?
+
+Emily: What’s it matter? You were busy yesterday anyway.
+
+James: Isn’t that dude a total scumbag? I heard he and his friends go around blackmailing girls for nudes and leaking them online.
+
+Emily: That's all just rumor, besides, he’s an honors student. But…
+
+James: But?
+
+Emily: I have heard those rumors too. He says he does the mentalist thing as a mental exercise, but admitted some of his friends are a little more than hobbyists. Which is why I didn’t want to sanction their club.
+
+James: Hmm...so are you going to the dessert bar with him after club then?
+
+Emily: I might, why, are you jealous perhaps?
+
+James:
+A little
+No, you can do what you want
+
+If option 1:
+
+Emily: Hmph. Then next time don’t ditch me to go play video games, or whatever the hell it was you did yesterday.
+
+James: Yeah, sorry, it was just a lot of socialization with new people, you know how I get…
+
+Emily: *sigh* Yeah, and you’re lucky I do too. But no, I wasn’t going with him, I was actually looking for an excuse to say no.
+
+*James gains some affection with emily*
+
+Story converges:
+
+If option 2:
+
+Emily: (annoyed) It’s like I don’t even know who you are anymore…
+
+James: What was that? You were mumbling.
+
+Emily: I said I wasn't planning on it, but it might actually be nice to check out a new dessert place.
+
+James: Oh…
+
+Emily:...Let's just finish this club work.
+
+*James loses affection with Emily*
+
+Story converges:
+Story continues:
+
+Emily: So, the first thing we need to do is get the proposals from each of the clubs.
+
+James: Proposals?
+
+Emily: Right, each club was told that they needed to submit a proposal for festival activities. The student committee needs to get approval from the school and draft a budget.
+
+James: Oh, that makes sense.
+
+Emily: Mhmm. So the first week of clubs will be dedicated to introductions and determining what stall the club is going to run. We also gave a list of some preapproved ideas, but clubs are encouraged to be creative.
+
+James: So my job is to collect these proposals?
+
+Emily: That’s right, you and I will be the club liaisons, answering any questions they have, and helping with the proposed activity if a club can’t agree to one or their first proposal is rejected.
+
+James: That sounds like a lot of work…
+
+Emily: It is, but I’m sure we can manage, plus, we have a whole semester to get this ready.
+
+James: What would cause a proposal to be rejected?
+
+Emily: Well, there’s the obvious stuff, like its not “school appropriate”, so no liquor or sex stuff,  but mostly is about budgets.
+
+James: Ok, and how much do clubs get?
+
+Emily: Last year, each club got $150, cooking and gardening clubs usually get more though because they are connected to actual classes. It comes from club initiation fees, which is $25, room rental which is $10, and end of the year fundraisers. Cooking and gardening clubs usually bring in the most, so in a way, they subsidize all the other clubs.
+
+James: So wait, how much does the school pitch in?
+
+Emily: Usually? Around $50-65, but this year, I don’t know…
+
+James: Who usually helps you with all of this?
+
+Emily: Well, I usually do it by myself. Sara is the club secretary, and doesn’t really like to take on extra work, and Marcus just joined shortly before you did.
+James: Isn’t he one of Caleb’s lackeys?
+
+Emily: Caleb did refer him, and I’ve seen them together a few times, but I’m not sure what their relationship is. It often looks like they don’t really like one another.
+
+James: Huh…
+
+Emily: Which is why I'm glad you’re here, at least now I won’t be outnumbered. No pressure or anything.
+
+James: Of course not....
+
+Scene ends:
+
+Story Continues:
+
+Art Club
+Title card: The next week
+
+Celia: OH! Hey, Jamie, over here!
+
+James: How’s it going? Sorry if I’m too early…
+
+Celia: no problem dude, at least you showed. We’ve had people wander in at the end of club or like three weeks into the semester before.
+
+James:That's an artist for you, right?
+
+Celia: *laughs* totally! (annoyed) wait a minute ese, what are you tryna say exactly?
+
+James: Uh...I didn’t mean anything by it, I’m just a little nervous and trying to lighten the mood….
+
+Celia: *laughs* Dude! Lighten up! I’m just messin’ wit’ chu. Artists are notoriously total flakes.
+
+James: I figured but…
+
+Celia: Look, i’m not even going that hard into my spicy latina game, you need to toughen up if you want to make it in art club.
+
+James:
+No, no, that’s not it. I just came in expecting habanero’s and you give me jalapeno’s
+I’m really nervous actually, I’m not much of a people person
+I’m just not tryna get shot by gangbanger relatives
+
+If option 1:
+
+Celia: (smirks) Ok, ok, my bad corazon, but I’m Colombian, we don’t use peppers in our cooking. That's the mexicanos.
+
+James: Now you have me curious to try your cooking.
+
+Celia: (smirks) Cute, but don’t push your luck too far. I don’t cook.
+
+*james gains affection with Celia*
+
+Story converges:
+
+If option 2:
+
+Celia: (concerned) Oh, can I do anything to help make you more comfortable? I promise I don’t bite. Non-consensually.
+
+James: It’s just a little much right now, Like I said I’m not much of a people person or club joiner.
+
+Celia: Ah, I see the quiet, tortured soul type. I get you.
+
+James: I wouldn’t really say i qualify as tortured-
+
+Celia: Oh! Looks like the other new member is here!
+
+Story converges:
+
+If option 3:
+
+Celia: (annoyed) Uh! Rude! Ok, I may not have told you before, but I don't’ get down with that racist shit, and that goes against anyone.
+
+James: i was--
+
+Celia (annoyed): un-uh! Don’t try and tell me some “it was just a joke bro” bullshit. I gave you my warning. 
+
+*marcus enters*
+
+Marcus: ...Is this the art club?
+Celia: don’t make me warn you again. (smiles) Yes! It is, you’re definitely in the right place!
+
+*james loses affection with Celia*
+
+If option 3 with option 1c from club selection:
+
+Celia: There you go again with that problematic bullshit.
+
+*Marcus enters*
+
+Marcus: ...Is this the art club?
+
+Celia: You’re lucky I don’t wanna make a scene in front of the new members, but you keep that bullshit up, me and you are gonna have words. (Smiles) Yes! You have definitely come to the right place!
+
+Marcus:...Ok…
+
+*james loses affection with Celia*
+
+Story converges
+
