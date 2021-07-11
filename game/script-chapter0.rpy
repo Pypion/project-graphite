@@ -1,36 +1,33 @@
 # Chapter 1.
 label start:
 
-    $ renpy.block_rollback()
+    scene loc-sch-ext with Dissolve (1.0)
 
-    #show screen varz
-
-    scene loc-sch-ext
-
-    j "The final year of high school starts today; my last chance at a lot of\
+    j "The final year of high school starts today, my last chance at a lot of\
     things. I feel like the best years of my life were wasted."
 
     j "I got good grades, teachers are quick to heap me with praise and\
-    offers of college recommendation letters, which is cool I guess; but I’ve\
-    never reached that one milestone, the right of passage for everyone on the\
-    cusp of adulthood..."
+    offers of college recommendation letters."
 
-    j "I've never had a girlfriend."
+    j "Which is cool I guess, but I’ve never reached that one milestone, the\
+    right of passage for everyone on the cusp of adulthood:"
+
+    j "I never had a girlfriend."
 
     j "I mean, there’s been a girl I’ve liked, since forever, basically, but\
     I've never had the guts to tell her."
 
-    j "It never works out with friends. You either confess and ruin the\
+    j "It never works out with friends.{w} You either confess and ruin the\
     friendship, or try and stay friends but slowly yet inevitably drift apart."
 
-    show chr-emily-smile at truecenter
+    show chr-emily-smile at truecenter with Dissolve (0.5)
 
-    e "Oh! Good morning, James!"
+    e "Oh! Good morning James!"
 
     j "{i}Shit! It's Emily! When I said I would shoot my shot this year, I\
     didn’t mean right this moment!{\i}"
 
-    j "Morning, Emily. What's up?"
+    j "Morning, Emily. What’s up?"
 
     e "Oh, you know, same old, same old. Were you planning on joining any\
     clubs?"
@@ -52,15 +49,12 @@ label start:
 
 label route0:
 
-    show chr-emily-smilebig at truecenter
+    # Set Emily expression to giggle.
 
-    e "You completely forgot about the festival didn’t you?"
-    
-    "Emily giggles."
+    e "You completely forgot about the festival didn’t you? *giggles* that is
+     so you."
 
-    e "That is so you."
-
-    show chr-emily-neut at truecenter
+    # Set Emily expression back to default.
 
     e "Anyway, I'm on the student committee, we oversee all the club\
     activities."
@@ -71,9 +65,11 @@ label route0:
         "Remind me. What’s this festival about?":
             jump route0a
         "Sounds like fun! You’ll be there, right?":
+            $ chapter0_sub_route = "B"
             jump route0b
         "After school? Yeah... No... I have plans. Doing other stuff, that’s\
         not in school.":
+            $ chapter0_sub_route = "C"
             jump route0c
 
     label route0a:
@@ -88,16 +84,17 @@ label route0:
 
         e "Well, yeah, now it is, but it wasn’t always."
 
-        e "The city just got too expensive and people who’ve been here for\
-        generations got displaced, and the market kind of died out."
+        e "The city just got too\
+        expensive and people who’ve been here for generations got displaced, and\
+        the market kind of died out."
 
-        j "Yeah, I heard about that. Gentrification or something, right?"
+        j "Yeah, I heard about that. Gentrification or something right?"
 
-        show chr-emily-smilebig at truecenter
+        # Set Emily expression to happy
 
         e "Yes! That’s exactly it!"
 
-        show chr-emily-smile at truecenter
+        # Set Emily expression back to default.
 
         e "And ever since the new train station got built,\
         the city wants to let some tech companies build offices and luxury\
@@ -129,7 +126,7 @@ label route0:
 
     label route0b:
 
-        show chr-emily-smilebig at truecenter
+        # Set Emily expression to happy
 
         e "Great! I knew I could count on you! The fair is after last\
         bell in the student commons, okay?"
@@ -140,13 +137,13 @@ label route0:
 
         e "For sure, see you there!"
 
-        $ points_love += 1
+        $ emily_points_love += 1
 
         jump chapter0_end
 
     label route0c:
 
-        show chr-emily-annoy at truecenter
+        # Set Emily expression to annoyed
 
         e "Really? Like what?"
 
@@ -157,6 +154,7 @@ label route0:
             that.":
                 jump route0c1
             "I don’t know. Jerk off, maybe?":
+                $ jerk_off = True
                 jump route0c2
 
         label route0c0:
@@ -173,10 +171,9 @@ label route0:
         label route0c1:
 
             e "What are you, like 5? It's not like that show has changed in\
-            the, what, 25 years its been on TV? I’m sure you can miss one\
-            episode."
+            the, what, 25 years its been on TV? I’m sure you can miss one episode."
 
-            $ points_love -= 1
+            $ emily_points_love -= 1
 
             #play sound "sch-bell.wav"
 
@@ -184,9 +181,9 @@ label route0:
 
         label route0c2:
 
-            show chr-emily-disgust at truecenter
+            # Set Emily expression to disgust.
 
-            $ chapter0_main_route -= 1
+            $ emily_points_love -= 1
 
             e "You know what, forget I asked."
 
@@ -208,7 +205,7 @@ label route0:
 
 label route1:
 
-    show chr-emily-disap at truecenter
+    # Set Emily expression to disappointed.
 
     e "I mean, I guess I understand, {w}but this is for a good cause and I\
     promise it will be really fun."
@@ -221,22 +218,23 @@ label route1:
             # We use the same route0a since it is basically the same thing.
 
         "I’ll think about it.":
+            $ chapter0_sub_route = "B"
             jump route1b
 
         "Yeah, no.":
+            $ chapter0_sub_route = "C"
             jump route1c
 
 
     label route1b:
 
-        show chr-emily-annoy at truecenter
+        # Set Emily expression to annoyed.
 
         e "It's not a no I guess."
 
-        show chr-emily-neut at truecenter
+        # Set Emily expression to default.
 
-        e "Anyway, if you want to join us, the club fair is after last bell in\
-        the student commons."
+        e "Anyway, if you want to join us, the club fair is after last bell in the student commons."
 
         #play sound "sch-bell.wav"
 
@@ -245,14 +243,13 @@ label route1:
 
     label route1c:
 
-        show chr-emily-annoy at truecenter
+        # Set Emily expression to annoyed.
 
         e "No need to be an ass about it."
 
-        e "Anyway, if you do decide to join us, the club fair is after last\
-        bell in the student commons."
+        e "Anyway, if you do decide to join us, the club fair is after last bell in the student commons."
 
-        $ points_love -= 1
+        $ emily_points_love -= 1
 
         #play sound "sch-bell.wav"
 
@@ -261,7 +258,7 @@ label route1:
 
 label route2:
 
-    show chr-emily-supr at truecenter
+    # Set Emily expression to suprised.
 
     e "Really? {w}That's great!"
 
@@ -270,7 +267,7 @@ label route2:
 
     j "Yeah, I’ll be there."
 
-    show chr-emily-smile at truecenter
+    # Set Emily expression to Happy.
 
     e "Great, I’ll see you there then!"
 
@@ -281,14 +278,13 @@ label route2:
 
 label chapter0_end:
 
-    if points_love == 0:
+    if emily_points_love == 0:
         j "{i}That went... some way...{\i}"
 
-    elif points_love >= 1:
-        j "{i}That went... better than expected. I might actually stand a\
-        chance!{\i}"
+    elif emily_points_love >= 1:
+        j "{i}That went... better than expected. I might actually stand a chance!{\i}"
 
     else:
         j "{i}God, what the hell is wrong with me?{\i}"
 
-return
+    jump chapter1
